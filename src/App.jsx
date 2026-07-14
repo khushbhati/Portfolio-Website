@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import profileImg from './assets/profile.jpg';
 import workspaceImg from './assets/workspace.jpg';
-import fullBodyImg from './assets/full-body.jpg';
+import fullBodyImg from './assets/full-body.png';
 
 // Inline SVG Icon components for clean modular use without extra dependencies
 const GithubIcon = () => (
